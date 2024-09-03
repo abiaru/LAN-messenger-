@@ -8,7 +8,7 @@ start  the server and connect as many clients as desired
 ## Server Side
 open terminal and run server.py file
 ### Usage Windows
-        python server.py <your ip address> <port number>
+        python server.py 
 
 ip address - type the ip for your server (usually the ip of the system in which you run the file in)
 
@@ -17,7 +17,7 @@ port number - type the port number for your server (if you dont know just use po
 ## Client Side
 open terminal and run client.py file
 ### Usage Windows
-        python client.py <server ip address> <port number>
+        python client.py 
 
 server ip address - type the ip of the server (if you are on the same system use the same ip used for server)
 
